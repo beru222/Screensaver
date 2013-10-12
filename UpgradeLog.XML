@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ScreenSaver">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\ScreenSaver.sln">
+</Property><Property Name="Date" Value="2013年10月1日">
+</Property><Property Name="Time" Value="16:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ScreenSaver.sln" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\ScreenSaver.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="ScreenSaver.csproj" Description="プロジェクト ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\ScreenSaver.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="ScreenSaver.csproj.user" Description="プロジェクト ユーザー ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\ScreenSaver.csproj.user としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="CommonFeedListUtils.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\CommonFeedListUtils.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="FeedList.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\FeedList.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Properties\Resources.Designer.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Properties\Resources.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="UI\FeedListView.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\UI\FeedListView.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="UI\IItem.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\UI\IItem.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Properties\Settings.designer.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Properties\Settings.designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Rss\RssItem.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Rss\RssItem.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="ScreenSaverForm.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\ScreenSaverForm.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="ScreenSaverForm.Designer.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\ScreenSaverForm.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="OptionsForm.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\OptionsForm.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="OptionsForm.Designer.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\OptionsForm.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Program.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Program.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Properties\AssemblyInfo.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="UI\ItemDescriptionView.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\UI\ItemDescriptionView.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Rss\RssFeed.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Rss\RssFeed.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="UI\ItemListView.cs" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\UI\ItemListView.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Properties\Settings.settings" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Properties\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Resources\DefaultRss.xml" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Resources\DefaultRss.xml としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="app.config" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\app.config としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Resources\SSaverBackground2.jpg" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Resources\SSaverBackground2.jpg としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Resources\SSaverBackground.jpg" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Resources\SSaverBackground.jpg としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Resources\App.ico" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Resources\App.ico としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="OptionsForm.resx" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\OptionsForm.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Properties\Resources.resx" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Properties\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="ScreenSaverForm.resx" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\ScreenSaverForm.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="Properties\app.manifest" Description="ファイルは正常に C:\Users\Kenichi.Koyama\Documents\MSDN\RssScreenSaver\Backup\Properties\app.manifest としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ScreenSaver" Source="ScreenSaver.csproj" Description="このプロジェクトは .NET Framework 2.0 または 3.0 に対応しています。プロジェクトで新しい .NET Framework を必要とするアセンブリを使用すると、ビルドに失敗します。[プロジェクト] メニューの [プロパティ] をクリックし、[.NET Framework] ボックスの一覧で新しいバージョンを選択することにより、.NET Framework のバージョンを変更できます。Visual Basic では、これは [コンパイル] タブの [詳細コンパイラ オプション] ボタンをクリックすると表示されます。">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="ScreenSaver.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="ScreenSaver" Source="ScreenSaver.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ScreenSaver.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="ScreenSaver.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ScreenSaver" Source="ScreenSaver.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>
